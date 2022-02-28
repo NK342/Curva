@@ -8,7 +8,7 @@ Code to turn off LED 2
 Code to turn off LED 1
 
 #### lidar_uart.py
-Code for Lidar1
+Code for Lidar 1
 
 #### lidar_usb.py
 Code for Lidar 2
@@ -26,4 +26,4 @@ Lights up LED 1 in **green**
 Lights up LED 1 in **red**
 
 ### start_curva.sh
-Starts up usb and uart lidars detectors in the background. This is added in /etc/rc.local file to start during the boot up.
+Starts up both Lidar 1 and Lidar 2
